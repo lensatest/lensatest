@@ -1,0 +1,13 @@
+{
+  "name": "lensa_test",
+  "version": "1.0.0",
+  "description": "Lensa Code Interview",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-cli": "^0.4.0"
+  }
+}
