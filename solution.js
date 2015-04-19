@@ -39,7 +39,7 @@ function zigZag (array) {
     // 3: Egész számok sorozatát akkor nevezzük cikkcakk sorozatnak, ha minden elemére igaz az hogy szigorúan kisebb vagy nagyobb a szomszédos elemeinél.
     // Például a 4 2 3 1 5 3 számsorozat cikkcakk de a 7 3 5 5 2 és 3 8 6 4 5 sorozatok nem.
     // Írd meg azt a függvényt, amely egy egész számokból álló tömbből visszaadja a legnagyobb egybefüggő cikkcakk sorozat hosszát!
-    // Írj hozzá teszteket! ("npm test" paranccsal futtathatóak a tesztek amik a "__tests__" mappában vannak)
+    // Írj hozzá teszteket! ("jasmine" paranccsal futtathatóak a tesztek amik a "spec" mappában vannak)
 
     // Original source:
     // A sequence of integers is called zigzag sequence if each of its elements is either strictly less or strictly greater than its neighbors.

@@ -1,12 +1,6 @@
-/* global jest, describe, it, expect, require, console */
-
-'use strict';
-
-jest.dontMock('../solution');
+var Event = require('../solution').Event;
 
 describe('Event tests', function() {
-
-    var Event = require('../solution').Event;
 
     it('should log Hello world', function() {
 

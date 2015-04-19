@@ -11,10 +11,10 @@ __Lensa Team__
 ## Instrukciók
 
 * Telepítsd a [NodeJS-t](https://nodejs.org/) és az NPM-et (ha még nincs a gépeden),
-* Checkoutold a teszt feladat git-jét,
-* Futtass `npm install` -t a projekt könyvtárában,
-* A gyökérben található `solution.js` file-ban oldd meg a feladatokat,
-* Az elkészült feladatod tesztelheted az `npm test` paranccsal.
+* Klónozd le ezt a repository-t,
+* Tedd fel a Jasmine-t az `npm install -g jasmine` paranccsal,
+* A projekt könyvtárában található `solution.js` file-ban oldd meg a feladatokat,
+* Az elkészült feladatod tesztelheted a projekt könyvtárában kiadott `jasmine` paranccsal.
 
 
 

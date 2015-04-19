@@ -1,12 +1,6 @@
-/* global jest, describe, it, expect, require */
+var solution = require('../solution');
 
-'use strict';
-
-jest.dontMock('../solution');
-
-describe('minFromArr', function() {
-
-    var solution = require('../solution');
+describe("minFromArr", function() {
 
     it('should return 5 from [5,6,7]', function() {
         expect(solution.minFromArr([5,6,7])).toBe(5);
@@ -31,5 +25,5 @@ describe('minFromArr', function() {
     it('should return 99999 from [99999,99999,99999]', function() {
         expect(solution.minFromArr([99999,99999,99999])).toBe(99999);
     });
-
+    
 });
