@@ -17,4 +17,8 @@ __Lensa Team__
 * Az elkészült feladatod tesztelheted a projekt könyvtárában kiadott `jasmine` paranccsal.
 
 
+## További segítség:
+* [Windows How-To](https://github.com/lensatest/lensatest/wiki/Windows-How-To) a wikiben
+
+
 
