@@ -1,3 +1,7 @@
+/*global require, describe, it, expect, console */
+
+'use strict';
+
 var Event = require('../solution').Event;
 
 describe('Event tests', function() {

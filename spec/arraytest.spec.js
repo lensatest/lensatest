@@ -1,6 +1,10 @@
+/*global require, describe, it, expect */
+
+'use strict';
+
 var solution = require('../solution');
 
-describe("minFromArr", function() {
+describe('minFromArr', function() {
 
     it('should return 5 from [5,6,7]', function() {
         expect(solution.minFromArr([5,6,7])).toBe(5);
