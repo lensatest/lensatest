@@ -40,11 +40,6 @@ function zigZag (array) {
     // Például a 4 2 3 1 5 3 számsorozat cikkcakk de a 7 3 5 5 2 és 3 8 6 4 5 sorozatok nem.
     // Írd meg azt a függvényt, amely egy egész számokból álló tömbből visszaadja a legnagyobb egybefüggő cikkcakk sorozat hosszát!
     // Írj hozzá teszteket! ("jasmine" paranccsal futtathatóak a tesztek amik a "spec" mappában vannak)
-
-    // Original source:
-    // A sequence of integers is called zigzag sequence if each of its elements is either strictly less or strictly greater than its neighbors.
-    // For example, the sequence 4 2 3 1 5 3 forms a zigzag, but 7 3 5 5 2 and 3 8 6 4 5 don't.
-    // For a given array of integers return the length of its largest (contiguous) subarray that forms a zigzag sequence.
 }
 
 exports.minFromArr = minFromArr;
